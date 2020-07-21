@@ -1,11 +1,12 @@
 # This is Git's per-user configuration file.
 [user]
-# Please adapt and uncomment the following lines:
+	# Please adapt and uncomment the following lines:
 	name = Edward D'Souza
-	email = edward.dsouza@polarmobile.com
+	email = edsouza+gh@gmail.com
 
 [grep]
 	extendRegexp = true
 	lineNumber = true
+
 [alias]
 	g = grep --break --heading --line-number
