@@ -115,6 +115,10 @@ eval "$(pyenv init -)"
 #
 eval "$(rbenv init -)"
 
+# Git
+
+alias push="git push origin HEAD"
+
 # Helper functions:
 
 function vm { ssh edward.dsouza@vm$1.dev.example.com; }
