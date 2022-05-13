@@ -4,6 +4,9 @@
 	name = Edward D'Souza
 	email = edsouza+gh@gmail.com
 
+[pull]
+	rebase = false
+
 [grep]
 	extendRegexp = true
 	lineNumber = true
