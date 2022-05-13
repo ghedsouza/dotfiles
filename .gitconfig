@@ -13,3 +13,6 @@
 
 [alias]
 	g = grep --break --heading --line-number
+
+[core]
+	pager = cat
